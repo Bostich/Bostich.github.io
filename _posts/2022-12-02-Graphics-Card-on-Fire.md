@@ -5,8 +5,6 @@ featured_image: '/images/mj-2080s-on-fire.png'
 excerpt: The very short and fun story of how when you put thoughts out in to the universe you mayb get unexpected results.
 ---
 
-![Graphics Card by MidJourney.ai](/images/mj-2080s-on-fire.png)
-
 ### Be careful what you wish for
 
 Okay so you know how sometimes it feels slightly less-than-random when you put certain thoughts out in to the universe and then things happen?
