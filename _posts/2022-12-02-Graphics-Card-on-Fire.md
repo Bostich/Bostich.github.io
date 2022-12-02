@@ -7,7 +7,7 @@ excerpt: The very short and fun story of how when you put thoughts out in to the
 
 ![Graphics Card on Fire](/images/mj-2080s-on-fire.png)
 
-## Graphics Card on Fire
+### Be careful what you wish for
 
 Okay so you know how sometimes it feels slightly less-than-random when you put certain thoughts out in to the universe and then things happen?
 
@@ -21,4 +21,4 @@ Now, one of the problems with PC diagnostics is pinning-down just what's broken,
 
 To cut the story short - I ended up racing after work to the local PC parts supplier and purchased brand-new card, and a powercord with surge protection, which is now thankfully working and also a slight-upgrade.
 
-Be careful what you wish for.
+Be careful what you wish for indeed.
