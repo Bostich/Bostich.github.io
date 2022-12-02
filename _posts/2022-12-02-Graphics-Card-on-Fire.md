@@ -1,11 +1,11 @@
 ---
 title: 'Graphics Card on Fire'
 date: 2022-12-02 11:00:00
-featured_image: '/images/mj-2080s-on-fire.jpg'
+featured_image: '/images/mj-2080s-on-fire.png'
 excerpt: The very short and fun story of how when you put thoughts out in to the universe you mayb get unexpected results.
 ---
 
-![Graphics Card on Fire](/images/mj-2080s-on-fire.jpg)
+![Graphics Card on Fire](/images/mj-2080s-on-fire.png)
 
 ## Graphics Card on Fire
 
